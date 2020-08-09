@@ -1,0 +1,38 @@
+{
+  "name": "react-native-sortable-list-folder",
+  "version": "1.0.0",
+  "description": "React Native Sortable List component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangle3979/react-native-sortable-list-folder.git"
+  },
+  "keywords": [
+    "react-native",
+    "sortable",
+    "sortable",
+    "list",
+    "sortable",
+    "folder",
+    "move",
+    "folder",
+    "move",
+    "list",
+    "drag",
+    "drop",
+    "drag",
+    "folder"
+  ],
+  "author": "hoangle <hoangle.3979@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangle3979/react-native-sortable-list-folder/issues"
+  },
+  "homepage": "https://github.com/hoangle3979/react-native-sortable-list-folder#readme",
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  }
+}
