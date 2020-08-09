@@ -1,7 +1,3 @@
-## Sortable list view for react-native
-
-![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)
-[![npm](https://img.shields.io/npm/v/react-native-sortable-list.svg?style=flat)](https://npmjs.com/package/react-native-sortable-list)
 
 ### Content
 - [Demo](#demo)
@@ -10,18 +6,13 @@
 - [API](#api)
 - [Questions?](#questions)
 
-### Demo
-<a href="https://raw.githubusercontent.com/gitim/react-native-sortable-list/master/demo.gif"><img src="https://raw.githubusercontent.com/gitim/react-native-sortable-list/master/demo.gif"></a>
-
 ### Installation
 ```bash
-npm i react-native-sortable-list --save
+npm i react-native-sortable-list-folder --save
 ```
 
 ### Examples
-- [Basic](https://github.com/gitim/react-native-sortable-list/tree/master/examples/Basic)
-- [Horizontal](https://github.com/gitim/react-native-sortable-list/tree/master/examples/Horizontal)
-
+- (https://github.com/hoangle3979/react-native-sortable-list-folder/blob/master/example/ExampleDrag.tsx)
 
 ### API
 #### Props
@@ -72,8 +63,4 @@ Called when a row was pressed.
 - **scrollTo(y?, animated?)** scrolls to a given y offset, either immediately or with a smooth animation
 - **scrollToRowKey(key, animated?)** scrolls to a given row key, either immediately or with a smooth animation
 
-### Questions?
-Feel free to contact me via
-- [Twitter](https://twitter.com/_gitim)
-
-If you find a bug, please [submit an issue](https://github.com/gitim/react-native-sortable-list/issues/new)
+If you find a bug, please [submit an issue](https://github.com/hoangle3979/react-native-sortable-list-folder/issues)
